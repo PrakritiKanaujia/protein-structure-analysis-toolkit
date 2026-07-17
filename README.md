@@ -38,6 +38,20 @@ This project demonstrates how shell scripting can be used to automate biological
 - 🖼 Display protein structure images
 - ⚙️ Menu-driven command-line interface
 
+## Prerequisites
+
+Before running the toolkit, ensure the following software is installed:
+
+- Linux or macOS
+- Bash 4.0+
+- `wget`
+- `curl`
+- `grep`
+- `awk`
+- `sed`
+
+Internet connectivity is required when downloading protein structures from the Protein Data Bank (PDB).
+
 ---
 
 ## 📂 Repository Structure
