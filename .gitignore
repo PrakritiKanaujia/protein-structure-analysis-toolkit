@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.Zone.Identifier
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Shell history
+.history
+
+# Python cache (future-proofing)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
